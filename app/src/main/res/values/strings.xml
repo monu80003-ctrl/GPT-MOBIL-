@@ -1,1 +1,5 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MONU AI PHONE CONTROL</string>
+    <string name="accessibility_description">Runs user-approved phone actions such as opening apps, tapping, swiping and entering text.</string>
+</resources>
